@@ -27,6 +27,9 @@ Encore
 
     // create hashed filenames (e.g. app.abc123.css)
     // .enableVersioning()
+    
+    //enable react
+    .enableReactPreset()
 ;
 
 // export the final configuration
